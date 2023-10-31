@@ -1,0 +1,37 @@
+dataset:
+  train_path: data/casia_faces
+  test_path: data/lfw
+  img_size:
+  - 32
+  - 32
+model:
+  name: TimmModel
+  architecture: resnet18
+strat:
+  batch_size: 512
+  epochs: 50
+  epoch_len: 1000000
+  accum_iter: 1
+  optimizer: SGD
+  opt_params:
+    lr: 0.1
+    momentum: 0.9
+  scheduler: MultiStepLR
+  sch_params:
+    milestones:
+    - 20
+    - 30
+    - 40
+    gamma: 0.1
+  scheduler_step: 1
+  scheduler_batch_step: 0
+  embedding_size: 256
+  dropout_rate: 0.3
+  scale: 64
+  margin: 0.5
+calculate_metric_step: 1
+num_workers: 16
+experiment_name: face_recognition_oz_test
+device: cuda:0
+num_classes: 10572
+out_path: weights
