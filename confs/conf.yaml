@@ -9,3 +9,4 @@ experiment_name: face_recognition_oz_test
 device: cuda:0
 num_classes: 10572
 out_path: weights
+test_weights: outputs/2023-11-01/03-41-30/weights/face_recognition_oz_test_38_20.0294_88.07.pth
