@@ -1,0 +1,158 @@
+[2023-11-01 03:41:30,556][timm.models.helpers][INFO] - Loading pretrained weights from url (https://download.pytorch.org/models/resnet18-5c106cde.pth)
+[2023-11-01 03:41:34,982][root][INFO] - Epoch: 0.    Train:
+[2023-11-01 03:42:34,583][root][INFO] - Train: loss:   35.0395   
+[2023-11-01 03:42:34,584][root][INFO] - Validation:
+[2023-11-01 03:42:36,431][root][INFO] - Val: accuracy:   50.47   EER:   0.4953   
+[2023-11-01 03:42:36,646][root][INFO] - Epoch: 1.    Train:
+[2023-11-01 03:43:43,051][root][INFO] - Train: loss:   23.5688   
+[2023-11-01 03:43:43,052][root][INFO] - Validation:
+[2023-11-01 03:43:44,916][root][INFO] - Val: accuracy:   75.22   EER:   0.2478   
+[2023-11-01 03:43:45,113][root][INFO] - Epoch: 2.    Train:
+[2023-11-01 03:44:53,852][root][INFO] - Train: loss:   22.7948   
+[2023-11-01 03:44:53,852][root][INFO] - Validation:
+[2023-11-01 03:44:55,718][root][INFO] - Val: accuracy:   76.28   EER:   0.2372   
+[2023-11-01 03:44:55,902][root][INFO] - Epoch: 3.    Train:
+[2023-11-01 03:46:04,679][root][INFO] - Train: loss:   22.7511   
+[2023-11-01 03:46:04,680][root][INFO] - Validation:
+[2023-11-01 03:46:06,470][root][INFO] - Val: accuracy:   80.72   EER:   0.1928   
+[2023-11-01 03:46:06,682][root][INFO] - Epoch: 4.    Train:
+[2023-11-01 03:47:15,329][root][INFO] - Train: loss:   22.1921   
+[2023-11-01 03:47:15,329][root][INFO] - Validation:
+[2023-11-01 03:47:17,195][root][INFO] - Val: accuracy:   83.35   EER:   0.1665   
+[2023-11-01 03:47:17,407][root][INFO] - Epoch: 5.    Train:
+[2023-11-01 03:48:26,251][root][INFO] - Train: loss:   21.8005   
+[2023-11-01 03:48:26,252][root][INFO] - Validation:
+[2023-11-01 03:48:28,093][root][INFO] - Val: accuracy:   84.27   EER:   0.1573   
+[2023-11-01 03:48:28,300][root][INFO] - Epoch: 6.    Train:
+[2023-11-01 03:49:37,033][root][INFO] - Train: loss:   21.585   
+[2023-11-01 03:49:37,034][root][INFO] - Validation:
+[2023-11-01 03:49:38,848][root][INFO] - Val: accuracy:   84.68   EER:   0.1532   
+[2023-11-01 03:49:39,053][root][INFO] - Epoch: 7.    Train:
+[2023-11-01 03:50:47,809][root][INFO] - Train: loss:   21.8207   
+[2023-11-01 03:50:47,809][root][INFO] - Validation:
+[2023-11-01 03:50:49,690][root][INFO] - Val: accuracy:   85.32   EER:   0.1468   
+[2023-11-01 03:50:49,896][root][INFO] - Epoch: 8.    Train:
+[2023-11-01 03:51:58,654][root][INFO] - Train: loss:   21.5318   
+[2023-11-01 03:51:58,655][root][INFO] - Validation:
+[2023-11-01 03:52:00,517][root][INFO] - Val: accuracy:   85.72   EER:   0.1428   
+[2023-11-01 03:52:00,738][root][INFO] - Epoch: 9.    Train:
+[2023-11-01 03:53:09,519][root][INFO] - Train: loss:   21.2664   
+[2023-11-01 03:53:09,519][root][INFO] - Validation:
+[2023-11-01 03:53:11,428][root][INFO] - Val: accuracy:   86.17   EER:   0.1383   
+[2023-11-01 03:53:11,614][root][INFO] - Epoch: 10.    Train:
+[2023-11-01 03:54:20,414][root][INFO] - Train: loss:   21.0411   
+[2023-11-01 03:54:20,414][root][INFO] - Validation:
+[2023-11-01 03:54:22,261][root][INFO] - Val: accuracy:   86.37   EER:   0.1363   
+[2023-11-01 03:54:22,468][root][INFO] - Epoch: 11.    Train:
+[2023-11-01 03:55:31,191][root][INFO] - Train: loss:   20.8501   
+[2023-11-01 03:55:31,192][root][INFO] - Validation:
+[2023-11-01 03:55:33,104][root][INFO] - Val: accuracy:   87.17   EER:   0.1283   
+[2023-11-01 03:55:33,314][root][INFO] - Epoch: 12.    Train:
+[2023-11-01 03:56:42,032][root][INFO] - Train: loss:   20.6998   
+[2023-11-01 03:56:42,033][root][INFO] - Validation:
+[2023-11-01 03:56:43,961][root][INFO] - Val: accuracy:   87.0   EER:   0.13   
+[2023-11-01 03:56:44,166][root][INFO] - Epoch: 13.    Train:
+[2023-11-01 03:57:52,929][root][INFO] - Train: loss:   20.5946   
+[2023-11-01 03:57:52,929][root][INFO] - Validation:
+[2023-11-01 03:57:54,940][root][INFO] - Val: accuracy:   87.05   EER:   0.1295   
+[2023-11-01 03:57:55,150][root][INFO] - Epoch: 14.    Train:
+[2023-11-01 03:59:03,983][root][INFO] - Train: loss:   20.5303   
+[2023-11-01 03:59:03,984][root][INFO] - Validation:
+[2023-11-01 03:59:05,812][root][INFO] - Val: accuracy:   86.93   EER:   0.1307   
+[2023-11-01 03:59:06,011][root][INFO] - Epoch: 15.    Train:
+[2023-11-01 04:00:14,698][root][INFO] - Train: loss:   20.9355   
+[2023-11-01 04:00:14,699][root][INFO] - Validation:
+[2023-11-01 04:00:16,586][root][INFO] - Val: accuracy:   87.22   EER:   0.1278   
+[2023-11-01 04:00:16,794][root][INFO] - Epoch: 16.    Train:
+[2023-11-01 04:01:26,086][root][INFO] - Train: loss:   20.8283   
+[2023-11-01 04:01:26,086][root][INFO] - Validation:
+[2023-11-01 04:01:28,038][root][INFO] - Val: accuracy:   86.98   EER:   0.1302   
+[2023-11-01 04:01:28,248][root][INFO] - Epoch: 17.    Train:
+[2023-11-01 04:02:37,001][root][INFO] - Train: loss:   20.7131   
+[2023-11-01 04:02:37,002][root][INFO] - Validation:
+[2023-11-01 04:02:38,866][root][INFO] - Val: accuracy:   87.7   EER:   0.123   
+[2023-11-01 04:02:39,074][root][INFO] - Epoch: 18.    Train:
+[2023-11-01 04:03:47,922][root][INFO] - Train: loss:   20.6103   
+[2023-11-01 04:03:47,923][root][INFO] - Validation:
+[2023-11-01 04:03:49,824][root][INFO] - Val: accuracy:   88.03   EER:   0.1197   
+[2023-11-01 04:03:50,057][root][INFO] - Epoch: 19.    Train:
+[2023-11-01 04:04:58,812][root][INFO] - Train: loss:   20.5116   
+[2023-11-01 04:04:58,813][root][INFO] - Validation:
+[2023-11-01 04:05:00,683][root][INFO] - Val: accuracy:   87.9   EER:   0.121   
+[2023-11-01 04:05:00,920][root][INFO] - Epoch: 20.    Train:
+[2023-11-01 04:06:09,771][root][INFO] - Train: loss:   20.4204   
+[2023-11-01 04:06:09,771][root][INFO] - Validation:
+[2023-11-01 04:06:11,717][root][INFO] - Val: accuracy:   88.03   EER:   0.1197   
+[2023-11-01 04:06:11,924][root][INFO] - Epoch: 21.    Train:
+[2023-11-01 04:07:20,725][root][INFO] - Train: loss:   20.3383   
+[2023-11-01 04:07:20,725][root][INFO] - Validation:
+[2023-11-01 04:07:22,500][root][INFO] - Val: accuracy:   88.02   EER:   0.1198   
+[2023-11-01 04:07:22,733][root][INFO] - Epoch: 22.    Train:
+[2023-11-01 04:08:31,607][root][INFO] - Train: loss:   20.2586   
+[2023-11-01 04:08:31,607][root][INFO] - Validation:
+[2023-11-01 04:08:33,453][root][INFO] - Val: accuracy:   88.35   EER:   0.1165   
+[2023-11-01 04:08:33,657][root][INFO] - Epoch: 23.    Train:
+[2023-11-01 04:09:42,370][root][INFO] - Train: loss:   20.178   
+[2023-11-01 04:09:42,371][root][INFO] - Validation:
+[2023-11-01 04:09:44,215][root][INFO] - Val: accuracy:   87.8   EER:   0.122   
+[2023-11-01 04:09:44,398][root][INFO] - Epoch: 24.    Train:
+[2023-11-01 04:10:53,045][root][INFO] - Train: loss:   20.1052   
+[2023-11-01 04:10:53,046][root][INFO] - Validation:
+[2023-11-01 04:10:54,895][root][INFO] - Val: accuracy:   88.7   EER:   0.113   
+[2023-11-01 04:10:55,101][root][INFO] - Epoch: 25.    Train:
+[2023-11-01 04:12:03,894][root][INFO] - Train: loss:   20.032   
+[2023-11-01 04:12:03,895][root][INFO] - Validation:
+[2023-11-01 04:12:05,786][root][INFO] - Val: accuracy:   88.23   EER:   0.1177   
+[2023-11-01 04:12:05,993][root][INFO] - Epoch: 26.    Train:
+[2023-11-01 04:13:14,753][root][INFO] - Train: loss:   19.9667   
+[2023-11-01 04:13:14,754][root][INFO] - Validation:
+[2023-11-01 04:13:16,591][root][INFO] - Val: accuracy:   87.98   EER:   0.1202   
+[2023-11-01 04:13:16,794][root][INFO] - Epoch: 27.    Train:
+[2023-11-01 04:14:25,579][root][INFO] - Train: loss:   19.9112   
+[2023-11-01 04:14:25,580][root][INFO] - Validation:
+[2023-11-01 04:14:27,432][root][INFO] - Val: accuracy:   88.45   EER:   0.1155   
+[2023-11-01 04:14:27,641][root][INFO] - Epoch: 28.    Train:
+[2023-11-01 04:15:36,396][root][INFO] - Train: loss:   19.8673   
+[2023-11-01 04:15:36,397][root][INFO] - Validation:
+[2023-11-01 04:15:38,282][root][INFO] - Val: accuracy:   88.25   EER:   0.1175   
+[2023-11-01 04:15:38,514][root][INFO] - Epoch: 29.    Train:
+[2023-11-01 04:16:47,344][root][INFO] - Train: loss:   19.8326   
+[2023-11-01 04:16:47,345][root][INFO] - Validation:
+[2023-11-01 04:16:49,161][root][INFO] - Val: accuracy:   88.23   EER:   0.1177   
+[2023-11-01 04:16:49,380][root][INFO] - Epoch: 30.    Train:
+[2023-11-01 04:17:58,208][root][INFO] - Train: loss:   19.8161   
+[2023-11-01 04:17:58,209][root][INFO] - Validation:
+[2023-11-01 04:18:00,040][root][INFO] - Val: accuracy:   88.0   EER:   0.12   
+[2023-11-01 04:18:00,248][root][INFO] - Epoch: 31.    Train:
+[2023-11-01 04:19:09,066][root][INFO] - Train: loss:   20.3242   
+[2023-11-01 04:19:09,067][root][INFO] - Validation:
+[2023-11-01 04:19:10,889][root][INFO] - Val: accuracy:   87.93   EER:   0.1207   
+[2023-11-01 04:19:11,087][root][INFO] - Epoch: 32.    Train:
+[2023-11-01 04:20:19,954][root][INFO] - Train: loss:   20.302   
+[2023-11-01 04:20:19,955][root][INFO] - Validation:
+[2023-11-01 04:20:21,825][root][INFO] - Val: accuracy:   87.83   EER:   0.1217   
+[2023-11-01 04:20:22,030][root][INFO] - Epoch: 33.    Train:
+[2023-11-01 04:21:30,748][root][INFO] - Train: loss:   20.2576   
+[2023-11-01 04:21:30,749][root][INFO] - Validation:
+[2023-11-01 04:21:32,619][root][INFO] - Val: accuracy:   88.42   EER:   0.1158   
+[2023-11-01 04:21:32,836][root][INFO] - Epoch: 34.    Train:
+[2023-11-01 04:22:41,511][root][INFO] - Train: loss:   20.2103   
+[2023-11-01 04:22:41,512][root][INFO] - Validation:
+[2023-11-01 04:22:43,227][root][INFO] - Val: accuracy:   88.52   EER:   0.1148   
+[2023-11-01 04:22:43,440][root][INFO] - Epoch: 35.    Train:
+[2023-11-01 04:23:52,333][root][INFO] - Train: loss:   20.162   
+[2023-11-01 04:23:52,334][root][INFO] - Validation:
+[2023-11-01 04:23:54,231][root][INFO] - Val: accuracy:   87.88   EER:   0.1212   
+[2023-11-01 04:23:54,440][root][INFO] - Epoch: 36.    Train:
+[2023-11-01 04:25:03,056][root][INFO] - Train: loss:   20.117   
+[2023-11-01 04:25:03,056][root][INFO] - Validation:
+[2023-11-01 04:25:04,951][root][INFO] - Val: accuracy:   88.0   EER:   0.12   
+[2023-11-01 04:25:05,159][root][INFO] - Epoch: 37.    Train:
+[2023-11-01 04:26:13,876][root][INFO] - Train: loss:   20.0758   
+[2023-11-01 04:26:13,876][root][INFO] - Validation:
+[2023-11-01 04:26:15,730][root][INFO] - Val: accuracy:   87.92   EER:   0.1208   
+[2023-11-01 04:26:15,928][root][INFO] - Epoch: 38.    Train:
+[2023-11-01 04:27:24,772][root][INFO] - Train: loss:   20.0294   
+[2023-11-01 04:27:24,773][root][INFO] - Validation:
+[2023-11-01 04:27:26,646][root][INFO] - Val: accuracy:   88.07   EER:   0.1193   
+[2023-11-01 04:27:26,853][root][INFO] - Epoch: 39.    Train:
