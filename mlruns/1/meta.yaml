@@ -1,0 +1,4 @@
+artifact_location: /data/aza_s/rotator/oz/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: face_recognition_oz_test

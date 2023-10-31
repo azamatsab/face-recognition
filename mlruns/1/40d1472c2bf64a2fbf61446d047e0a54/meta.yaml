@@ -1,0 +1,15 @@
+artifact_uri: /data/aza_s/rotator/oz/mlruns/1/40d1472c2bf64a2fbf61446d047e0a54/artifacts
+end_time: 1698791281316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 40d1472c2bf64a2fbf61446d047e0a54
+run_uuid: 40d1472c2bf64a2fbf61446d047e0a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698788494977
+status: 4
+tags: []
+user_id: ubuntu
