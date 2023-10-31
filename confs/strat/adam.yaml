@@ -1,0 +1,21 @@
+# @package _group_
+batch_size: 512
+epochs: 50
+epoch_len: 1000000
+accum_iter: 8
+optimizer: Adam
+opt_params: {lr: 0.0003}
+
+scheduler: MultiStepLR
+sch_params: {
+        milestones: [20, 30, 40],
+        gamma: 0.1
+        }
+
+scheduler_step: 1
+scheduler_batch_step: 0
+embedding_size: 512
+dropout_rate: 0.3
+
+scale: 64
+margin: 0.5

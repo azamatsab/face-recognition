@@ -1,0 +1,3 @@
+# @package _group_
+name: TimmModel
+architecture: "resnet18"

@@ -1,0 +1,4 @@
+# @package _group_
+train_path: data/casia_faces
+test_path: data/lfw
+img_size: [32, 32]

@@ -1,0 +1,21 @@
+# @package _group_
+batch_size: 512
+epochs: 50
+epoch_len: 1000000
+accum_iter: 1
+optimizer: SGD
+opt_params: {lr: 0.1, momentum: 0.9}
+
+scheduler: CosineAnnealingWarmRestarts
+sch_params: {
+        T_0: 959,
+        T_mult: 2
+        }
+
+scheduler_step: 0
+scheduler_batch_step: 1
+embedding_size: 256
+dropout_rate: 0.4
+
+scale: 64
+margin: 0.5

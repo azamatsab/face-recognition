@@ -1,0 +1,11 @@
+defaults:
+  - dataset: face_dataset
+  - model: timm
+  - strat: sgd
+
+calculate_metric_step: 1
+num_workers: 16
+experiment_name: face_recognition_oz_test
+device: cuda:0
+num_classes: 10572
+out_path: weights
