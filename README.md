@@ -1,1 +1,11 @@
-### This is 39th place (silver medal zone) solution for Kaggle Breast Cancer detection challenge
+## Пайплайн для обучения FaceRecogniton 
+
+###### Результаты обучения находятся в папке mlruns, чтобы с ходом обучения наберите следующую команду:
+      mlflow ui
+
+###### Файлы конфигурации находятся в папке confs и имеют иерархическую структуру
+
+###### Помимо mlflow, каждый эксперимент логируется с помщью hydra, с логами можно ознакомиться в папке outputs
+###### Веса моделей хранятся в outputs/<experiment_date>/weights
+
+
